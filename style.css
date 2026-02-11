@@ -1,13 +1,12 @@
 body
 {
  background-color:#FFD39B;
- color:#9BC8FF;
+ color:#fcfcfc;
  width:90%;
+ font-family: Rubik;
+ font-weight: bold;
+ margin:0 auto;
 }
-p 
-{
-  font-family:serif;
 
-}
 
 
